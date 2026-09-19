@@ -62,17 +62,18 @@ The following technologies and tools were used to complete the project:
 - Visual Studio Code
 
 ---
+# Screenshots
+![Task 1 Components](Screenshots/components.png)
+![Task 1 ProductCard](Screenshots/Productcard.png)
+![Task 1 TeamRoster](Screenshots/Teamroster.png)
+
+---
 
 # Project Structure
 
 The project follows a component-based React structure.
 
 ---
-# Screenshots
-![Task 1 Components](Screenshots/components.png)
-![Task 1 ProductCard](Screenshots/Productcard.png)
-![Task 1 TeamRoster](Screenshots/Teamroster.png)
-
 
 ```text
 week-4-day-1-assignment/
